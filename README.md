@@ -22,7 +22,8 @@ This is a simple web application to fetch and display weather information for a 
 
 ## Preview
 
-[![Weather App Preview](preview.png)]([index.html](https://umeshpatildondaicha.github.io/Whether_App-main/))
+
+View the live website [here](https://umeshpatildondaicha.github.io/Whether_App-main/) 
 
 ## Emoji
 
